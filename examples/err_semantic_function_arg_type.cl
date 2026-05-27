@@ -1,0 +1,5 @@
+fun add(a : number, b : number) : number {
+    return a + b;
+}
+
+print add(1, "bad");
